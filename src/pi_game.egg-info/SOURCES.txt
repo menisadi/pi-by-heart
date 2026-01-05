@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/pi.py
-src/pi_game.egg-info/PKG-INFO
-src/pi_game.egg-info/SOURCES.txt
-src/pi_game.egg-info/dependency_links.txt
-src/pi_game.egg-info/entry_points.txt
-src/pi_game.egg-info/top_level.txt
