@@ -1,12 +1,12 @@
 # pyproject.toml
 
 [build-system]
-requires      = ["setuptools>=61.0.0", "wheel"]
+requires = ["setuptools>=77.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "pi-by-heart"
-version = "1.0.6"
+version = "1.0.7"
 description = "A simple pi memorization game"  
 readme = "pypireadme.md"
 license = { file = "LICENSE" }
